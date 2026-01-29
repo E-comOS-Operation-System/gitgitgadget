@@ -1,3 +1,8 @@
+# A fork from [here](https://github.com/gitgitgadget/gitgitgadget/)'s repo.
+This is a forked repository originating from [here](https://github.com/gitgitgadget/gitgitgadget/).
+The E-comOS Operation System Project is maintained with the aim of serving as a converter between public relations and mailing lists.
+We released it under the original license and made some modifications to adapt it for the E-comOS Operation System Project.
+The following is the original content of the README:
 # Contributing git.git patches via GitHub PRs
 
 This project's goal is to make contributions to the Git project (almost) as easy as opening a GitHub PR. The idea is for users to open a Pull Request at
